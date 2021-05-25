@@ -1,3 +1,4 @@
 Dimko Post1 likes2
 mewo3 Post1 likes1
-mewo3 Post2 likes1
+mewo3 Post2 likes2
+
